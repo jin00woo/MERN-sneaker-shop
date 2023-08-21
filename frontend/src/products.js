@@ -1,7 +1,7 @@
 const products = [
   {
     _id: "1",
-    name: "Air Jordan 1 Retro High 'Bred'",
+    name: "Air Jordan 1 Retro 'Bred'",
     image: "/images/air_jordan_1_bred.jpeg",
     description:
       "The Air Jordan 1 Retro High OG 'Bred' 2016 brings back the colorway that started it all. The high-top features a black and red upper constructed with a mix of leather and OG-style satin. A white midsole and red outsole complete the look.",

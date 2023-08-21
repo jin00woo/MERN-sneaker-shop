@@ -1,0 +1,15 @@
+{
+  "name": "mern-sneaker-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Jinwoo Han",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

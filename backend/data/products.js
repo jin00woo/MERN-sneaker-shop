@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Air Jordan 1 Retro 'Bred'",
     image: "/images/air_jordan_1_bred.jpeg",
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: "2",
     name: "Air Jordan 3 Retro 'Cement'",
     image: "/images/air_jordan_3_cement.jpeg",
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: "3",
     name: "Air Jordan 6 Retro 'Infrared'",
     image: "/images/air_jordan_6_infrared.jpeg",
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "4",
     name: "Air Max 90 'Blue Chill'",
     image: "/images/air_max_90_bluechill.jpeg",
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "5",
     name: "Yeezy Boost 700 'Analog'",
     image: "/images/yeezy_boost_analog.jpeg",
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: "6",
     name: "New Balance 990 'Black'",
     image: "/images/new_balance_990.jpeg",
     description:
